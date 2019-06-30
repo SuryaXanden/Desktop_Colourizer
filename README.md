@@ -2,7 +2,6 @@
 Pick and apply a wallpaper based on the user's background.
 <br>
 For best experience,
-<br>
 Settings > Personalization > Colors > check the *Automatically pick an accent color from my background* box
 ## Launching the app
 Run Desktop_Colourizer.bat
