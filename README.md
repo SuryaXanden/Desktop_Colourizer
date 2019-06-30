@@ -14,3 +14,8 @@ Run Update_Wallpapers.bat
 or
 <br>
 run *python update.py*
+
+## Dependencies
+This was built on Windows 10 x64 and is intended for the same.
+<br>
+run *pip install -r requirements.txt* to install all dependencies
