@@ -1,4 +1,4 @@
-# Desktop_Colorizer
+# Desktop_Colourizer
 Pick and apply a wallpaper based on the user's background
 
 ## Launching the app
