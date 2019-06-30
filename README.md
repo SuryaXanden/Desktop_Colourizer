@@ -4,14 +4,30 @@ Pick and apply a wallpaper based on the user's background.
 For best experience,
 Settings > Personalization > Colors > check the *Automatically pick an accent color from my background* box.
 ## Launching the app
-Run Desktop_Colourizer.bat
+Windows:
+<br>
+  &nbsp;&nbsp;&nbsp;Run Desktop_Colourizer.bat
+<br>
+Linux:
+<br>
+  &nbsp;&nbsp;&nbsp;chmod +x Desktop_Colourizer.sh
+<br>
+  &nbsp;&nbsp;&nbsp;./Desktop_Colourizer.sh
 <br>
 or
 <br>
 run *python main.py*
 
 ## Updating the set of wallpapers
-Run Update_Wallpapers.bat
+Windows:
+<br>
+  &nbsp;&nbsp;&nbsp;Run Update_Wallpapers.bat
+<br>
+Linux:
+<br>
+  &nbsp;&nbsp;&nbsp;chmod +x Update_Wallpapers.sh
+<br>
+  &nbsp;&nbsp;&nbsp;./Update_Wallpapers.sh
 <br>
 or
 <br>
