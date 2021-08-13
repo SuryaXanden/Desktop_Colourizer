@@ -1,3 +1,2 @@
-glob3
-opencv-python
 numpy
+opencv-python
